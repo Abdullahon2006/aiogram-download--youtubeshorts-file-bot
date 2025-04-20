@@ -75,5 +75,5 @@ This project is open-source and available under the MIT License.
 📞 Contact
 
 👤 Abdullokhon Valikhonov
-📧 abdullahon2006@gmail.com
+📧 antonforsus@gmail.com
 🔗 GitHub: Abdullahon2006
